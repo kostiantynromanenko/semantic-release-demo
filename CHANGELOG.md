@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/kostiantynromanenko/semantic-release-demo/compare/v2.0.0...v2.1.0) (2023-12-05)
+
+
+### Features
+
+* next dev iteration ([5871649](https://github.com/kostiantynromanenko/semantic-release-demo/commit/58716498b5c6c11e9fde25b6e1d335e67c6e46ae))
+
 ## [2.0.0](https://github.com/kostiantynromanenko/semantic-release-demo/compare/v1.0.0...v2.0.0) (2023-12-05)
 
 
