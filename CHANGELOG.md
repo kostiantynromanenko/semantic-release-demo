@@ -1,0 +1,8 @@
+# Changelog
+
+### [1.0.1](https://github.com/kostiantynromanenko/semantic-release-demo/compare/v1.0.0...v1.0.1) (2023-12-05)
+
+
+### Bug Fixes
+
+* add new file ([70caf0d](https://github.com/kostiantynromanenko/semantic-release-demo/commit/70caf0d9f96498a74bd727787ebff9960ed027fc))
