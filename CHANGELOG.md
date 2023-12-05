@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/kostiantynromanenko/semantic-release-demo/compare/v2.1.0...v3.0.0) (2023-12-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* release new version
+
+### Features
+
+* a big feature ([f09cf19](https://github.com/kostiantynromanenko/semantic-release-demo/commit/f09cf19c693291348583a9601d328b92365e37c8))
+
 ## [2.1.0](https://github.com/kostiantynromanenko/semantic-release-demo/compare/v2.0.0...v2.1.0) (2023-12-05)
 
 
